@@ -2,7 +2,7 @@ package com.example.mathematikt1;
 
 import java.util.Random;
 
-public class binaryOperatorLaws {
+public class BinaryOperatorLaws {
 
 	public static Boolean a = true;
 	public static Boolean b = true;
